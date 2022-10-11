@@ -21,7 +21,15 @@ npm install
 npm run db:migrate
 ```
 
-5. Now, you start the project
+5. Now, you run the project
 ```sh
 npm run start
+```
+
+## Expected Output
+```sh
+> be-service@1.0.0 start
+> node src/app
+
+App running on http://localhost:4000
 ```
