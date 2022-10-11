@@ -21,7 +21,9 @@ npm install
 npm run db:migrate
 ```
 
-5. Now, you run the project
+5. Edit the file `keycloak.json` or you can download your adapter config on KeyCloak Server
+
+6. Now, you run the project
 ```sh
 npm run start
 ```
